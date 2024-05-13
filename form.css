@@ -1,0 +1,14 @@
+[type="text"] {
+    background-color: red;
+    color: aqua;
+}
+[type="password"]{
+    background-color: yellow;
+    color: white;
+}
+button[type="reset"]{
+    background-color: aqua;
+}
+input[type="reset"] {
+    background-color: bisque;
+}
